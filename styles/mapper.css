@@ -1,0 +1,7 @@
+form#csvaf-mapper input,
+form#csvaf-mapper textarea,
+form#csvaf-mapper select,
+form#csvaf-mapper td,
+form#csvaf-mapper label {
+  vertical-align: top;
+}
